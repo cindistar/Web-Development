@@ -1,4 +1,4 @@
-# cv_html
+# Simple CV using only HTML
 
 HTML project
 
